@@ -1,1 +1,1 @@
-# intelligencevariant
+# Intelligence Variant
